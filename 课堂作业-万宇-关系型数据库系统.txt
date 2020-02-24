@@ -1,28 +1,27 @@
-¹ØÏµÐÍÊý¾Ý¿â¹ÜÀíÏµÍ³¼ò³ÆRDBMS£¬RDBMS·ÖÎª±¾µØ£¨Local)ºÍ·þÎñÆ÷£¨Server)Êý¾Ý¿â¹ÜÀíÏµÍ³¡£
+å…³ç³»åž‹æ•°æ®åº“ç®¡ç†ç³»ç»Ÿç®€ç§°RDBMSï¼ŒRDBMSåˆ†ä¸ºæœ¬åœ°ï¼ˆLocal)å’ŒæœåŠ¡å™¨ï¼ˆServer)æ•°æ®åº“ç®¡ç†ç³»ç»Ÿã€‚
 
-µ±½ñÖ÷Á÷µÄ¹ØÏµÐÍÊý¾Ý¿âÓÐ£º
-Oracle£º Ëü²ÉÓÃ±ê×¼µÄSQL½á¹¹»¯²éÑ¯ÓïÑÔ£¬Ö§³Ö¶àÖÖÊý¾ÝÀàÐÍ£¬Ìá¹©ÃæÏò¶ÔÏó´æ´¢µÄÊý¾ÝÖ§³Ö£¬¾ßÓÐµÚËÄ´úÓïÑÔ¿ª·¢¹¤¾ß¡£
-Ö§³ÖUnix¡¢Windows NT¡¢OS/2¡¢NovellµÈ¶àÖÖÆ½Ì¨¡£³ý´ËÖ®Íâ£¬Ëü»¹¾ßÓÐºÜºÃµÄ²¢ÐÐ´¦Àí¹¦ÄÜ¡£
-Oracle²úÆ·Ö÷ÒªÓÉOracle·þÎñÆ÷²úÆ·¡¢Oracle¿ª·¢¹¤¾ß¡¢OracleÓ¦ÓÃÈí¼þ×é³É£¬Ò²ÓÐ»ùÓÚÎ¢»úµÄÊý¾Ý¿â²úÆ·¡£
-Ö÷ÒªÂú×ã¶ÔÒøÐÐ¡¢½ðÈÚ¡¢±£ÏÕµÈÆóÒµ¡¢ÊÂÒµ¿ª·¢´óÐÍÊý¾Ý¿âµÄÐèÇó¡£
+å½“ä»Šä¸»æµçš„å…³ç³»åž‹æ•°æ®åº“æœ‰ï¼š
+Oracleï¼š å®ƒé‡‡ç”¨æ ‡å‡†çš„SQLç»“æž„åŒ–æŸ¥è¯¢è¯­è¨€ï¼Œå¤šç§æ•°æ®ç±»åž‹ï¼Œæä¾›é¢å‘å¯¹è±¡å­˜å‚¨çš„æ•°æ®æ”¯æŒï¼Œå…·æœ‰ç¬¬å››ä»£è¯­è¨€å¼€å‘å·¥å…·ã€‚
+æ”¯æŒUnixã€Windows NTã€OS/2ã€Novellç­‰å¤šç§å¹³å°ã€‚é™¤æ­¤ä¹‹å¤–ï¼Œå®ƒè¿˜å…·æœ‰å¾ˆå¥½çš„å¹¶è¡Œå¤„ç†åŠŸèƒ½ã€‚
+ä¸»è¦æ»¡è¶³å¯¹é“¶è¡Œã€é‡‘èžã€ä¿é™©ç­‰ä¼ä¸šã€äº‹ä¸šå¼€å‘å¤§åž‹æ•°æ®åº“çš„éœ€æ±‚ã€‚
 
-Microsoft SQL Server£ºÊÇMicrosoft ¹«Ë¾ÍÆ³öµÄ¹ØÏµÐÍÊý¾Ý¿â¹ÜÀíÏµÍ³¡£
-¾ßÓÐÊ¹ÓÃ·½±ã¿ÉÉìËõÐÔºÃÓëÏà¹ØÈí¼þ¼¯³É³Ì¶È¸ßµÈÓÅµã£¬¿É¿çÔ½´ÓÔËÐÐMicrosoft Windows 98 µÄÏ¥ÉÏÐÍµçÄÔµ½ÔËÐÐMicrosoft Windows 2012 µÄ´óÐÍ¶à´¦ÀíÆ÷µÄ·þÎñÆ÷µÈ¶àÖÖÆ½Ì¨Ê¹ÓÃ¡£
+Microsoft SQL Serverï¼šå¯ä¼¸ç¼©æ€§å¥½ã€ä¸Žç›¸å…³è½¯ä»¶é›†æˆç¨‹åº¦é«˜ã€‚
+å¯è·¨è¶Šä»Žè¿è¡ŒMicrosoft Windows 98 çš„è†ä¸Šåž‹ç”µè„‘åˆ°è¿è¡ŒMicrosoft Windows 2012 çš„å¤§åž‹å¤šå¤„ç†å™¨çš„æœåŠ¡å™¨ç­‰å¤šç§å¹³å°ä½¿ç”¨ã€‚
 
-MySQL£º MySQLÊÇÒ»¸ö¹ØÏµÐÍÊý¾Ý¿â¹ÜÀíÏµÍ³£¬ÓÉÈðµäMySQL AB ¹«Ë¾¿ª·¢£¬Ä¿Ç°ÊôÓÚ Oracle ÆìÏÂ²úÆ·¡£
-MySQL ÊÇ×îÁ÷ÐÐµÄ¹ØÏµÐÍÊý¾Ý¿â¹ÜÀíÏµÍ³Ö®Ò»£¬ÔÚ WEB Ó¦ÓÃ·½Ãæ£¬MySQLÊÇ×îºÃµÄ RDBMS (Relational Database Management System£¬¹ØÏµÊý¾Ý¿â¹ÜÀíÏµÍ³) Ó¦ÓÃÈí¼þÖ®Ò»¡£
+MySQLï¼š ç”±ç‘žå…¸MySQL AB å…¬å¸å¼€å‘ï¼Œç›®å‰å±žäºŽ Oracle æ——ä¸‹äº§å“ã€‚æ˜¯æœ€æµè¡Œçš„å…³ç³»åž‹æ•°æ®åº“ç®¡ç†ç³»ç»Ÿä¹‹ä¸€ï¼Œåœ¨ WEB åº”ç”¨æ–¹é¢ï¼ŒMySQLæ˜¯æœ€å¥½çš„ RDBMS (Relational Database Management Systemï¼Œå…³ç³»æ•°æ®åº“ç®¡ç†ç³»ç»Ÿ) åº”ç”¨è½¯ä»¶ä¹‹ä¸€ã€‚
+ä¸»è¦å¯ç”¨äºŽä¸­å°åž‹ç½‘ç«™å¼€å‘ã€‚
 
-DB II: ÊÇÃÀ¹úIBM¹«Ë¾¿ª·¢µÄÒ»Ì×¹ØÏµÐÍÊý¾Ý¿â¹ÜÀíÏµÍ³£¬ËüÖ÷ÒªµÄÔËÐÐ»·¾³ÎªUNIX£¨°üÀ¨IBM×Ô¼ÒµÄAIX£©¡¢Linux¡¢IBM i£¨¾É³ÆOS/400£©¡¢z/OS£¬ÒÔ¼°Windows·þÎñÆ÷°æ±¾¡£
-DB2Ö÷ÒªÓ¦ÓÃÓÚ´óÐÍÓ¦ÓÃÏµÍ³£¬¾ßÓÐ½ÏºÃµÄ¿ÉÉìËõÐÔ£¬¿ÉÖ§³Ö´Ó´óÐÍ»úµ½µ¥ÓÃ»§»·¾³£¬Ó¦ÓÃÓÚËùÓÐ³£¼ûµÄ·þÎñÆ÷²Ù×÷ÏµÍ³Æ½Ì¨ÏÂ¡£
+DB II: æ˜¯ç¾Žå›½IBMå…¬å¸å¼€å‘çš„ä¸€å¥—å…³ç³»åž‹æ•°æ®åº“ç®¡ç†ç³»ç»Ÿï¼Œå®ƒä¸»è¦çš„è¿è¡ŒçŽ¯å¢ƒä¸ºUNIXï¼ˆåŒ…æ‹¬IBMè‡ªå®¶çš„AIXï¼‰ã€Linuxã€IBM iï¼ˆæ—§ç§°OS/400ï¼‰ã€z/OSï¼Œä»¥åŠWindowsæœåŠ¡å™¨ç‰ˆæœ¬ã€‚
+DB IIä¸»è¦åº”ç”¨äºŽå¤§åž‹åº”ç”¨ç³»ç»Ÿï¼Œå…·æœ‰è¾ƒå¥½çš„å¯ä¼¸ç¼©æ€§ï¼Œå¯æ”¯æŒä»Žå¤§åž‹æœºåˆ°å•ç”¨æˆ·çŽ¯å¢ƒï¼Œåº”ç”¨äºŽæ‰€æœ‰å¸¸è§çš„æœåŠ¡å™¨æ“ä½œç³»ç»Ÿå¹³å°ä¸‹ã€‚
 
-SQLite£ºÇ¶ÈëÊ½¹ØÏµÐÍÊý¾Ý¿â¹ÜÀíÏµÍ³¡£Êý¾ÝÁ¿Ð¡¡¢Ò×ÓÚ¹ÜÀíÊÖ»úÉÏ¿ª·¢¼ÇÕË±¾µÈ³ÌÐò£¬µçÄÔ¶ËµÄÏÂÔØ³ÌÐòÈçÑ¸À×µÈ¡£
+SQLiteï¼šåµŒå…¥å¼å…³ç³»åž‹æ•°æ®åº“ç®¡ç†ç³»ç»Ÿã€‚æ•°æ®é‡å°ã€æ˜“äºŽç®¡ç†æ‰‹æœºä¸Šå¼€å‘è®°è´¦æœ¬ç­‰ç¨‹åºï¼Œç”µè„‘ç«¯çš„ä¸‹è½½ç¨‹åºå¦‚è¿…é›·ç­‰ã€‚
 
 
-¹ØÏµÐÍÊý¾Ý¿âµÄÓÅµã£º
-1. ÀûÓÃ¶þÎ¬±í½á¹¹£¬Ïà¶ÔÍø×´¡¢²ã´ÎµÈÆäËûÄ£ÐÍÀ´Ëµ¸üÈÝÒ×Àí½â£»
-2. Í¨ÓÃÊÇµÄMySQLÓïÑÔÊ¹Æä²Ù×÷¸ü¼Ó·½±ã£»
-3. ·á¸»µÄÍêÕûÐÔ(ÊµÌåÍêÕûÐÔ¡¢²ÎÕÕÍêÕûÐÔºÍÓÃ»§¶¨ÒåµÄÍêÕûÐÔ)´ó´ó¼õµÍÁËÊý¾ÝÈßÓàºÍÊý¾Ý²»Ò»ÖÂµÄ¸ÅÂÊ£¬ Ò×ÓÚÎ¬»¤¡£
+å…³ç³»åž‹æ•°æ®åº“çš„ä¼˜ç‚¹ï¼š
+1. åˆ©ç”¨äºŒç»´è¡¨ç»“æž„ï¼Œç›¸å¯¹ç½‘çŠ¶ã€å±‚æ¬¡ç­‰å…¶ä»–æ¨¡åž‹æ¥è¯´æ›´å®¹æ˜“ç†è§£ï¼›
+2. é€šç”¨æ˜¯çš„MySQLè¯­è¨€ä½¿å…¶æ“ä½œæ›´åŠ æ–¹ä¾¿ï¼›
+3. ä¸°å¯Œçš„å®Œæ•´æ€§(å®žä½“å®Œæ•´æ€§ã€å‚ç…§å®Œæ•´æ€§å’Œç”¨æˆ·å®šä¹‰çš„å®Œæ•´æ€§)å¤§å¤§å‡ä½Žäº†æ•°æ®å†—ä½™å’Œæ•°æ®ä¸ä¸€è‡´çš„æ¦‚çŽ‡ï¼Œ æ˜“äºŽç»´æŠ¤ã€‚
 
-È±µã£º
-1. ¶à±í¹ØÁª²éÑ¯£¬Êý¾Ý·ÖÎöÀàÐÍ¸´ÔÓ¡¢SQL±¨±í²éÑ¯·±¶à£¬±ØÐë°´ÕÕÒªÇóµÄ·¶Ê½½øÐÐÉè¼Æ£¬Êý¾Ý½á¹¹¸ñÊ½»¯£¬ÐÔÄÜÇ·¼Ñ£»
-2. »ùÓÚwebµÄÊý¾Ý¿â£¬ÔÚ´¦Àí´óÁ¿·ÃÎÊÁ¿ºÍÓÃ»§Á¿·½ÃæÐ§ÂÊ½ÏµÍ£»
+ç¼ºç‚¹ï¼š
+1. å¤šè¡¨å…³è”æŸ¥è¯¢ï¼Œæ•°æ®åˆ†æžç±»åž‹å¤æ‚ã€SQLæŠ¥è¡¨æŸ¥è¯¢ç¹å¤šï¼Œå¿…é¡»æŒ‰ç…§è¦æ±‚çš„èŒƒå¼è¿›è¡Œè®¾è®¡ï¼Œæ•°æ®ç»“æž„æ ¼å¼åŒ–ï¼Œæ€§èƒ½æ¬ ä½³ï¼›
+2. åŸºäºŽwebçš„æ•°æ®åº“ï¼Œåœ¨å¤„ç†å¤§é‡è®¿é—®é‡å’Œç”¨æˆ·é‡æ–¹é¢æ•ˆçŽ‡è¾ƒä½Žï¼›
